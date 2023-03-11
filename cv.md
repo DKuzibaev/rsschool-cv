@@ -77,7 +77,7 @@ btnRed.addEventListener('click', () => {
 
   - Automation of control systems
 
-- **Bachelor - Pskov State University
+- **Bachelor - Pskov State University**
   - Social psychology
 
 ---
