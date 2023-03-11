@@ -84,12 +84,12 @@ btnRed.addEventListener('click', () => {
 
 # Expirience
 
-**From 2019 to 2022 I worked on Fyffes Fruit Import
+**From 2019 to 2022 I worked on Fyffes Fruit Import**
 
 - Senior Storekeeper - 6 months
 - Automation engineer of the warehouse product storage system - until 2022
 
-**From 2022 to the present day I have been working for the Digital Web company
+**From 2022 to the present day I have been working for the Digital Web company**
 
 - SEO specialist assistant - 2 months
 - Senior SEO Specialist
