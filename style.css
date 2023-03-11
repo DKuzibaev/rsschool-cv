@@ -1,0 +1,14 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    background-color: rgb(36, 36, 36);
+    box-sizing: border-box;
+    
+}
+
+h1 {
+    position: relative;
+    color: white;
+    top: 250px;
+}
