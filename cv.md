@@ -101,4 +101,3 @@ btnRed.addEventListener('click', () => {
 - Russian
 - English
 - Uzbek
-- Kyrgyz
